@@ -9,7 +9,7 @@ Composer config
 ```json
 {
     "require": {
-        "akeb/curlget": "^1.1.0"
+        "akeb/sql_pholder": "^1.0.0"
     },
     "repositories": [
         {
