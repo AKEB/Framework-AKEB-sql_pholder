@@ -1,0 +1,30 @@
+{
+	"authors": [
+		{
+			"email": "vadimakeb@gmail.com",
+			"name": "Vadim Babadzhanyan",
+			"role": "Lead"
+		}
+	],
+	"autoload": {
+		"classmap": [
+			"src/"
+		]
+	},
+	"description": "SQL pholder",
+	"license": "Apache-2.0",
+	"name": "akeb/sql_pholder",
+	"support": {
+		"email": "vadimakeb@gmail.com",
+		"issues": "https://github.com/AKEB/Framework-AKEB-sql_pholder/issues",
+		"wiki": "https://github.com/AKEB/Framework-AKEB-sql_pholder/wiki",
+		"source": "https://github.com/AKEB/Framework-AKEB-sql_pholder"
+	},
+	"type": "library",
+	"require": {
+		"php": ">=7.1"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "@stable"
+	}
+}
