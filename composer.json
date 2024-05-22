@@ -9,6 +9,9 @@
 	"autoload": {
 		"classmap": [
 			"src/"
+		],
+		"files": [
+			"src/sql_functions.php"
 		]
 	},
 	"description": "SQL pholder",
